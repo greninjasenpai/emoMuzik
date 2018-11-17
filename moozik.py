@@ -1,8 +1,8 @@
 import pafy
 import vlc
-import threading
+from threading import Thread
 
-current_emotion=""
+current_emotion="sadness"
 
 
 
