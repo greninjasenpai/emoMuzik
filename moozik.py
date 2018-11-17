@@ -8,7 +8,7 @@ current_emotion=""
 
 contempt_play_list=[]
 disgust_play_list=[]
-fear_play_list=[]
+fear_play_list=["https://www.youtube.com/watch?v=UI2WuKFX7u0","https://www.youtube.com/watch?v=f8fUFmjqXZo","https://www.youtube.com/watch?v=0ewQiU3q5jM","https://www.youtube.com/watch?v=kVpPlWlHMrA","https://www.youtube.com/watch?v=wVodyoHhNto"]
 happiness_play_list=[]
 neutral_play_list=[]
 
