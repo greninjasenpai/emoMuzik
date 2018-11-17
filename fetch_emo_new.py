@@ -14,9 +14,21 @@ params = urllib.parse.urlencode({
     'returnFaceAttributes': 'age,emotion',
 })
 
+body = "" 
+
+#load image
+
+filename = 'happy.jpeg'
+
+f = open(filename, "rb")
+
+body = f.read()
+
+f.close()
+
 try:
     conn = http.client.HTTPSConnection('westus2.api.cognitive.microsoft.com')
-    conn.request("POST", "/face/v1.0/detect?%s" % params, 'pexels-photo-41582.jpeg', headers)
+    conn.request("POST", "/face/v1.0/detect?%s" % params, body, headers)
     response = conn.getresponse()
     data = response.read()
     print(data)
