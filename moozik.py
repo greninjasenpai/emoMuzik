@@ -2,9 +2,9 @@ import pafy
 import vlc
 from threading import Thread
 
-current_emotion="sadness"
+current_emotion="surprise"
 
-
+fin_count=-1
 
 contempt_play_list=[]
 disgust_play_list=[]
@@ -31,11 +31,16 @@ emotion_to_playlist={
 
 
 def thread_helper(ori_list,local_emotion):
+    global fin_count
     i=0
     while True:
+        print("up")
         i+=1
         i=i%len(ori_list)
-        url=[i]
+        url=ori_list[i]
+
+        print("url={}".format(url))
+        
         print("local emotrion {}".format(local_emotion))
         print(ori_list)
         # if the current emotion changes, upadte the playlist
@@ -59,6 +64,32 @@ def thread_helper(ori_list,local_emotion):
                 print("retuerning")
                 player.stop()
                 return
+
+            elif (fin_count==5):
+                player.pause()
+
+            elif (fin_count==0):
+                fin_count=-1
+                player.play()
+
+            # next
+            elif (fin_count==1):
+                player.stop()
+                fin_count=-1
+                break
+
+            elif (fin_count==2):
+                player.stop()
+
+                if i==0:
+                    i=len(ori_list)
+
+                elif i==1:
+                    i=len(ori_list)-1
+
+                i=i-2  
+                fin_count=-1
+                break
             continue
         print("retuerning no")
         
@@ -78,7 +109,7 @@ if __name__ == "__main__":
     while True:
         print("hi")
         var = input("Please enter something: ")
-        current_emotion=var
+        fin_count=int(var)
     thread.join()
 
 
