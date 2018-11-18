@@ -35,7 +35,7 @@ def thread_helper(ori_list,local_emotion):
     while True:
         i+=1
         i=i%len(ori_list)
-        url=[i]
+        url=ori_list[i]
         
         print("local emotrion {}".format(local_emotion))
         print(ori_list)
@@ -60,6 +60,21 @@ def thread_helper(ori_list,local_emotion):
                 print("retuerning")
                 player.stop()
                 return
+            elseif (fin_count==5):
+                player.pause()
+            elseif (fin_count==0):
+                player.play()
+            elseif (fin_count==1):
+                player.stop()
+                break
+            elseif (fin_count==2):
+                player.stops()
+                if i==0:
+                    i=len(ori_list)
+                elseif i==1:
+                    i=len(ori_list)-1
+                i=i-2   
+                break
             continue
         print("retuerning no")
         
