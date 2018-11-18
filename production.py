@@ -135,7 +135,24 @@ def thread_function():
 
 
 ######################################### Get_top_emotion #################################
-# returns the top emotion
+# returns the max emortion in the json response, rejects neutral if it is less than 80%
+def Get_top_emotion_helper(data):
+    dict1=data[0]["faceAttributes"]["emotion"]
+    max=0
+    max_emotion=""
+    for item in dict1:
+        confideance=dict1[item]
+        if confideance>max:
+            if item=="neutral":
+                if confideance>0.8:
+                    max_emotion=item
+                    max=confideance
+            else:
+                max_emotion=item
+                max=confideance
+    return(max_emotion)
+    
+# does and assure api call and returns the top emotion
 def Get_top_emotion(frame):
     retval, encoded_image = cv2.imencode('.jpeg', frame)
     # encoded_image = np.array(encoded_image)
@@ -147,6 +164,7 @@ def Get_top_emotion(frame):
         response = conn.getresponse()
         data = response.read()
         print(data)
+        # print(Get_top_emotion_helper(data))
         conn.close()
         
     except Exception as e:
