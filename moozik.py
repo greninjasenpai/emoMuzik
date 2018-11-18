@@ -31,7 +31,12 @@ emotion_to_playlist={
 
 
 def thread_helper(ori_list,local_emotion):
-    for url in ori_list: 
+    i=0
+    while True:
+        i+=1
+        i=i%len(ori_list)
+        url=[i]
+        
         print("local emotrion {}".format(local_emotion))
         print(ori_list)
         # if the current emotion changes, upadte the playlist
