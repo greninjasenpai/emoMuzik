@@ -24,6 +24,8 @@ f = open(filename, "rb")
 
 body = f.read()
 
+print(body)
+
 f.close()
 
 try:
