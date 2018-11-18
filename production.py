@@ -162,6 +162,7 @@ def thread_helper(ori_list,local_emotion):
                 return
             #pause
             elif (fin_count>=3):
+                time.sleep(1)
                 player.pause()
 
             #play
@@ -362,7 +363,7 @@ def getsture_reco():
                 #         print (cnt)
                         #app('System Events').keystroke(' ')  # simulate pressing blank space
                         
-            print (trial_var)
+            # print (trial_var)
             fin_count=trial_var
             # cv2.imshow('output', drawing)
 
