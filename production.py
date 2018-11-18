@@ -90,10 +90,11 @@ def thread_helper(ori_list,local_emotion):
                 print("retuerning")
                 player.stop()
                 return
-
+            #pause
             elif (fin_count==4):
                 player.pause()
 
+            #play
             elif (fin_count==1):
                 fin_count=-1
                 player.play()
@@ -104,6 +105,7 @@ def thread_helper(ori_list,local_emotion):
                 fin_count=-1
                 break
 
+            #previous
             elif (fin_count==2):
                 player.stop()
 
@@ -116,6 +118,7 @@ def thread_helper(ori_list,local_emotion):
                 i=i-2  
                 fin_count=-1
                 break
+
             continue
         print("retuerning no")
         
