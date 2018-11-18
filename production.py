@@ -54,6 +54,8 @@ params = urllib.parse.urlencode({
 })
 
 ########################################## global variables for the assure framework end ###################################
+
+################################## music functions #################################
 def thread_helper(ori_list,local_emotion):
     global fin_count
     i=0
