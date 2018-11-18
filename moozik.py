@@ -29,15 +29,15 @@ emotion_to_playlist={
 }
 
 
-def thread_function():
-    local_emotion=current_emotion
-    ori_list = emotion_to_playlist[local_emotion]
+
+def thread_helper(ori_list,local_emotion):
     for url in ori_list: 
+        print("local emotrion {}".format(local_emotion))
+        print(ori_list)
         # if the current emotion changes, upadte the playlist
         if local_emotion != current_emotion:
-            local_emotion=current_emotion
-            ori_list = emotion_to_playlist[local_emotion]
-            continue
+            player.stop()
+            return
         
         # setup the video
         video = pafy.new(url)
@@ -52,17 +52,29 @@ def thread_function():
 
         while player.get_position()<0.98:
             if local_emotion != current_emotion:
-                local_emotion=current_emotion
-                ori_list = emotion_to_playlist[local_emotion]
-                break
+                print("retuerning")
+                player.stop()
+                return
             continue
+        print("retuerning no")
+        
         player.stop()
+
+
+def thread_function():
+    while True:
+        local_emotion=current_emotion
+        ori_list = emotion_to_playlist[local_emotion]
+        thread_helper(ori_list,local_emotion)
+    
 
 if __name__ == "__main__":
     thread = Thread(target = thread_function)
     thread.start()
     while True:
+        print("hi")
         var = input("Please enter something: ")
         current_emotion=var
+    thread.join()
 
 

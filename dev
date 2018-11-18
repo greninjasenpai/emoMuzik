@@ -1,0 +1,2288 @@
+Please enter something: [00007f91dbd69f50] videotoolbox decoder: Using Video Toolbox to decode 'h264'
+[00007f91dbd69f50] videotoolbox decoder: vt cvpx chroma: 420v
+[00007f91dbc8b1a0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1502f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[00007f91dbd69f50] videotoolbox decoder error: decoder failure, Abort.
+[00007f91dbc8f050] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1dcaf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbc8d820] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8e08f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbc9bcc0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8b04f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbc99060] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1dcaf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbc96310] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1dcaf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbe73720] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1dcaf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbc8ed80] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac810f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbf578b0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fc6f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbf578b0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8df2f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbf525a0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fc6f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbe6f450] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8df2f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbc8dce0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0a6af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbe6ec00] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0a6af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbc9e260] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da218cf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbf53760] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dd80daf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbe70ec0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0a6af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbdc6560] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0a6af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbe6e9a0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fc6f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbe6ec00] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc92ccf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbdc83b0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc92c0f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbe6f450] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da202af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbc8d820] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0a6af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dba0c970] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8e5af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbe6ec00] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8bd4f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbe6f1f0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2008f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbc8da10] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fc6f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbd69f50] main decoder error: buffer deadlock prevented
+[00007f91dbb0e1e0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8df2f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbb0e1e0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc962cf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbc944e0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc962cf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbdc53b0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e9ef0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbdc5590] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e9ef0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbc9c5d0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e9ef0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbf58f60] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e9ef0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbc96be0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0aa8f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbc97030] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0aa8f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbc96be0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8e12f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbf59400] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8e12f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbc96980] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8e12f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dba0c970] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0c3ef0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbf59df0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0c3ef0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91d9e04ef0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0c3ef0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbf59900] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc974cf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbf54450] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc974cf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbe767a0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0c3ef0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbe6f640] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fc6f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbe79740] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8e12f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbf586d0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dd80daf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbf5c250] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0a08f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91d9e04ef0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0a08f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91db80bf30] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac5d8f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbdc3160] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fc6f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbc973c0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8becf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbe6e9a0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0f14f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dba0c970] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac5d8f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbdc13f0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac5d8f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbdc13f0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fc6f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91db80bea0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fc6f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbdc13f0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0c58f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbf59f90] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbb0ecb0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8e5af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbc7a640] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dd80daf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbc9d4d0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac512f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbe7a650] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac512f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbe77980] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbc9d340] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8e12f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbe7a940] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8e12f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbf54450] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0c3ef0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbc97cc0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbe77860] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0c3ef0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbe77f30] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbc9dc50] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8e12f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbc9dd20] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91de000af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbf5a2e0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1e14f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbdc1840] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac40cf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91d9e043d0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac40cf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbf5a690] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1e14f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbdc1840] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1e14f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbf68830] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db12aaf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbdc1840] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac40cf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbe797d0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1e14f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbdcb400] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbdca640] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbe79c70] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbda9530] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0cb2f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbf5d990] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbf5f3b0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0c36f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbc95e80] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dd0040f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbda9530] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc02d6f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbc9e8e0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91de001ef0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbc9eb00] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbdc9040] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fc6f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbca2320] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fc6f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbf5bff0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fc6f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbf5cfa0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db12aaf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbe7ce80] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fc6f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbf5d990] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fc6f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbc9f920] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da900af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dba0c970] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db12aaf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbdc9160] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db12aaf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbe72d40] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db12aaf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbdc92c0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da900af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbe7a6c0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91de000af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbf5f340] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8508f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbdc20b0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbf5f150] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbda9530] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbb0e250] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbf4f080] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dd844af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbe79e20] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbe7a020] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db12aaf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbdc9740] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db12aaf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbc9fcc0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db12aaf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbb0d800] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbf5b260] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbf58e60] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dd0040f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbf4f080] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dd0040f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbf58e60] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbc8d820] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dd0040f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dba17b00] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dd0040f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbdc3ff0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbdc9f40] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbf57370] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dd80daf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbe79b20] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91db80c4e0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8508f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91d9e052f0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0cb2f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91d9e08120] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91de000af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbe746d0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbe7f6c0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da900af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dba0c970] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbf539a0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbf539a0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91d9e04c90] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da900af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbdc2b70] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0a08f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbdc5680] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbdcde00] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbf54450] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbc8ec70] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0a08f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbf6a3e0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8508f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbca2120] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbf502c0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbdb1650] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91de000af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dba14210] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0c36f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbf6aa10] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0c36f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbc9e1a0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0c36f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbdc06f0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbf4fe80] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91db80cd10] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dd0040f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbca2c40] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0c36f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbca40a0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbca4060] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbe7b780] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbe7b8e0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbca1400] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0eaaf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbdb1650] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0eaaf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbca10e0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0eaaf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbf20be0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0eaaf0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbc9c690] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbf69500] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc917ef0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbe7b9a0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbca1a70] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc917ef0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbf68ee0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbf5e6e0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0e6af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbf20980] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0e6af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbf20b70] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0e6af0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+[00007f91dbe7bdd0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da2012f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac3b200] get_buffer() failed
+[h264 @ 0x7f91dac3b200] thread_get_buffer() failed
+[h264 @ 0x7f91dac3b200] decode_slice_header error
+[h264 @ 0x7f91dac3b200] no frame!
+[00007f91dbe7bcf0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5d200] get_buffer() failed
+[h264 @ 0x7f91dac5d200] thread_get_buffer() failed
+[h264 @ 0x7f91dac5d200] decode_slice_header error
+[h264 @ 0x7f91dac5d200] no frame!
+[00007f91dbe71580] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8508f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac5de00] get_buffer() failed
+[h264 @ 0x7f91dac5de00] thread_get_buffer() failed
+[h264 @ 0x7f91dac5de00] decode_slice_header error
+[h264 @ 0x7f91dac5de00] no frame!
+[00007f91dbe75210] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0cb2f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac80a00] get_buffer() failed
+[h264 @ 0x7f91dac80a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac80a00] decode_slice_header error
+[h264 @ 0x7f91dac80a00] no frame!
+[00007f91dbf5c120] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8e82f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91da861e00] get_buffer() failed
+[h264 @ 0x7f91da861e00] thread_get_buffer() failed
+[h264 @ 0x7f91da861e00] decode_slice_header error
+[h264 @ 0x7f91da861e00] no frame!
+[00007f91dbe7ef50] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8508f0] main video output error: video output creation failed
+[00007f91dbd69f50] main decoder error: failed to create video output
+[h264 @ 0x7f91dac56a00] get_buffer() failed
+[h264 @ 0x7f91dac56a00] thread_get_buffer() failed
+[h264 @ 0x7f91dac56a00] decode_slice_header error
+[h264 @ 0x7f91dac56a00] no frame!
+Please enter something: [00007f91dbdc4870] videotoolbox decoder: Using Video Toolbox to decode 'h264'
+[00007f91dbdc4870] videotoolbox decoder: vt cvpx chroma: 420v
+[00007f91dbe49e90] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8e72f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[00007f91dbdc4870] videotoolbox decoder error: decoder failure, Abort.
+[00007f91dbf74f40] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc992cf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbe4dfc0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8b04f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbddc700] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da21a0f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91dbe3de60] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8d8cf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbe3e2d0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da21a0f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbf77e90] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dbf80640] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e08f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbe38620] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc001ef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbe3efb0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91de001ef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91dbf69f50] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fdaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91de82ab20] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbe3f2e0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dd001ef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91de823f40] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fdaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91de82e8c0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fdaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbe29ab0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91dbe29ab0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91de82b340] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbe3f7c0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1f90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dbddf2d0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dd001ef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbf7dc50] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0c58f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbe3f810] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc9142f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91dbddf7b0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1f90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbf7b250] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dd001ef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbddec40] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dbf81c60] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0c58f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91d9e074b0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0c58f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91de82b580] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8d90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91de82eda0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fdaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbf74f40] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91de82ece0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fdaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dbe37b10] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbe437b0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbddfaa0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0c58f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91dbe40280] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91de82ed50] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1f90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbf7cf60] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dbe3e820] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1f90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91de81de00] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbe40450] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91de82c0d0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbdc4870] main decoder error: buffer deadlock prevented
+[00007f91dbe40710] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbf7b060] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0c58f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dba23470] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fdaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbf77110] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fdaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbdd3980] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fdaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91dbde0ee0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbdde2a0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91de82c660] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91de82c820] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbe3c540] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fdaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91de82c8c0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91de820670] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbe41010] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dba230e0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fdaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91de823120] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbe42290] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbf7baa0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91dbe423c0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbf77fc0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8d90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbe45d10] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dbf78220] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8d90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91de822860] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fdaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbe45cf0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91dbe45ef0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbe45ff0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbe46080] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dbe42a80] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fdaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbe460b0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbf77dd0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91de8287b0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbf78220] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1f90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbdde6c0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1f90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dbe3f680] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbe467c0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbf785f0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8d90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91dbdde720] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbe46980] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8d90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbdde7c0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91de827ad0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbf7cb50] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbe49590] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fdaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91dbe387c0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbe3a370] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbf75400] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91de826670] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbe38be0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbf7e100] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91dbf6ba10] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbe37460] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbddef20] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91de8219b0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91de826410] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91de826410] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91de8261b0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8f00f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbe48860] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91de8261b0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dbe41e60] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbf6bb40] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fdaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbf6a050] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91de0010f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91dbf801d0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbde01c0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fdaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbe489f0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dbf7dcb0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbe48dd0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbe26540] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8f00f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91dbf7e360] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fdaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbe26540] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8f00f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91de826950] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91de826900] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8f00f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbe42e20] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1fdaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbe3dde0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91de827530] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbe3a920] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbe3a920] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dbe3ab10] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbdd6e50] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbf76eb0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91dbf76eb0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbf80620] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbe3e730] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dbe3e730] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbf7c920] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbe52990] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91de827590] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbf80fb0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91de831ed0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dbf78860] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1f90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbe52b80] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91de832680] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1f90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91de832a90] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1f90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbe49ca0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbe45c40] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1f90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dbf6b7b0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbe45e50] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8d90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbf81090] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91dbf81150] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbe459d0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1f90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbf7dea0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc8f3af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dbf81600] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db0e6ef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbe3dfd0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da1f90f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbf69b50] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91dbdd6e50] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbdd6e50] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dba230e0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dc928af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dbf7a100] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da056ef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91dbd6ea10] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbd6ea10] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da056ef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+[00007f91dbd6ea10] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91dac4eaf0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009800] get_buffer() failed
+[h264 @ 0x7f91dd009800] thread_get_buffer() failed
+[h264 @ 0x7f91dd009800] decode_slice_header error
+[h264 @ 0x7f91dd009800] no frame!
+[00007f91dbe45f90] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd009e00] get_buffer() failed
+[h264 @ 0x7f91dd009e00] thread_get_buffer() failed
+[h264 @ 0x7f91dd009e00] decode_slice_header error
+[h264 @ 0x7f91dd009e00] no frame!
+[00007f91dbd6ea10] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8f00f0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8a3a00] get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] thread_get_buffer() failed
+[h264 @ 0x7f91dc8a3a00] decode_slice_header error
+[h264 @ 0x7f91dc8a3a00] no frame!
+[00007f91dbe46330] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da056ef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dd002800] get_buffer() failed
+[h264 @ 0x7f91dd002800] thread_get_buffer() failed
+[h264 @ 0x7f91dd002800] decode_slice_header error
+[h264 @ 0x7f91dd002800] no frame!
+[00007f91de830660] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91da8ecef0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8e7200] get_buffer() failed
+[h264 @ 0x7f91dc8e7200] thread_get_buffer() failed
+[h264 @ 0x7f91dc8e7200] decode_slice_header error
+[h264 @ 0x7f91dc8e7200] no frame!
+[00007f91dbd6e5c0] macosx vout display error: No drawable-nsobject nor vout_window_t found, passing over.
+[00007f91db3e4af0] main video output error: video output creation failed
+[00007f91dbdc4870] main decoder error: failed to create video output
+[h264 @ 0x7f91dc8f1600] get_buffer() failed
+[h264 @ 0x7f91dc8f1600] thread_get_buffer() failed
+[h264 @ 0x7f91dc8f1600] decode_slice_header error
+[h264 @ 0x7f91dc8f1600] no frame!
+Traceback (most recent call last):
+  File "moozik.py", line 76, in <module>
+    var = input("Please enter something: ")
+KeyboardInterrupt
+Exception ignored in: <module 'threading' from '/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py'>
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 1273, in _shutdown
+    t.join()
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 1032, in join
+    self._wait_for_tstate_lock()
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py", line 1048, in _wait_for_tstate_lock
+    elif lock.acquire(block, timeout):
+KeyboardInterrupt
