@@ -6,6 +6,7 @@ import time
 import pafy
 import vlc
 from threading import Thread
+import json
 
 
 
@@ -163,8 +164,9 @@ def Get_top_emotion(frame):
         conn.request("POST", "/face/v1.0/detect?%s" % params, stringData, headers)
         response = conn.getresponse()
         data = response.read()
-        print(data)
-        # print(Get_top_emotion_helper(data))
+        data_json=json.loads(data)
+        print(data_json)
+        # print(Get_top_emotion_helper(data_json))
         conn.close()
         
     except Exception as e:
